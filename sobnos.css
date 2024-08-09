@@ -1,0 +1,35 @@
+.lista{
+    list-style-type: circle;
+}
+#h1{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-decoration:underline;
+}
+#div{
+    border-radius: 10px;
+    padding: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    font-size: 18px;
+    background-color:gainsboro;
+}
+#bus{
+    margin: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: flex;
+    height: 300px;
+    width: 70%;
+}
+#imgbus{
+    border: 3px solid gray;
+    height: 300px;
+}
+#text{
+    margin: 20px;
+    padding-top: 220px;
+}
