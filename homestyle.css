@@ -72,3 +72,14 @@
 .bi-search {
     font-size: 1.2rem;
 }
+
+#lopa{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 5px;
+
+}

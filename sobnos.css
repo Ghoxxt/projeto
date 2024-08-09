@@ -33,3 +33,14 @@
     margin: 20px;
     padding-top: 220px;
 }
+
+#lopa{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+align-items: center;
+justify-content: center;
+display: flex;
+gap: 5px;
+
+}
